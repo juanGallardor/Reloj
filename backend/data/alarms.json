@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6,
+    "time": "02:39",
+    "label": "Nueva Alarma",
+    "enabled": true,
+    "days": [
+      "Lun",
+      "Mar",
+      "Mié",
+      "Jue",
+      "Vie",
+      "Sáb",
+      "Dom"
+    ],
+    "created_at": "2025-10-14T11:38:48.029352"
+  },
+  {
+    "id": 4,
+    "time": "11:20",
+    "label": "Nueva Alarma",
+    "enabled": true,
+    "days": [
+      "Lun",
+      "Mar",
+      "Mié",
+      "Jue",
+      "Vie",
+      "Sáb",
+      "Dom"
+    ],
+    "created_at": "2025-10-14T11:19:46.172867"
+  },
+  {
+    "id": 5,
+    "time": "17:38",
+    "label": "Nueva Alarma",
+    "enabled": true,
+    "days": [
+      "Lun",
+      "Mar",
+      "Mié",
+      "Jue",
+      "Vie",
+      "Sáb",
+      "Dom"
+    ],
+    "created_at": "2025-10-14T11:27:41.690479"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 9,
+    "lap_number": 9,
+    "lap_time": 0.59,
+    "total_time": 44.74,
+    "timestamp": "2025-10-13T22:11:55.351182"
+  },
+  {
+    "id": 7,
+    "lap_number": 7,
+    "lap_time": 2.34,
+    "total_time": 40.85,
+    "timestamp": "2025-10-13T22:11:05.489968"
+  },
+  {
+    "id": 5,
+    "lap_number": 5,
+    "lap_time": 3.59,
+    "total_time": 36.86,
+    "timestamp": "2025-10-13T22:11:01.495130"
+  },
+  {
+    "id": 3,
+    "lap_number": 3,
+    "lap_time": 0.49,
+    "total_time": 2.25,
+    "timestamp": "2025-10-12T23:11:10.295451"
+  },
+  {
+    "id": 1,
+    "lap_number": 1,
+    "lap_time": 1.24,
+    "total_time": 1.24,
+    "timestamp": "2025-10-12T23:11:09.288290"
+  },
+  {
+    "id": 2,
+    "lap_number": 2,
+    "lap_time": 0.52,
+    "total_time": 1.76,
+    "timestamp": "2025-10-12T23:11:09.803559"
+  },
+  {
+    "id": 4,
+    "lap_number": 4,
+    "lap_time": 31.01,
+    "total_time": 33.27,
+    "timestamp": "2025-10-13T22:10:58.218497"
+  },
+  {
+    "id": 6,
+    "lap_number": 6,
+    "lap_time": 1.65,
+    "total_time": 38.51,
+    "timestamp": "2025-10-13T22:11:03.150041"
+  },
+  {
+    "id": 8,
+    "lap_number": 8,
+    "lap_time": 3.31,
+    "total_time": 44.15,
+    "timestamp": "2025-10-13T22:11:54.764927"
+  }
+]

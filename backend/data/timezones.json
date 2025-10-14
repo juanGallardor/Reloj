@@ -1,0 +1,37 @@
+[
+  {
+    "id": "alemania-berlin",
+    "country": "Alemania",
+    "city": "Berlin",
+    "offset": "UTC+1",
+    "order": 0
+  },
+  {
+    "id": "canada-toronto",
+    "country": "Canadá",
+    "city": "Toronto",
+    "offset": "UTC-5",
+    "order": 1
+  },
+  {
+    "id": "argentina-buenos-aires",
+    "country": "Argentina",
+    "city": "Buenos Aires",
+    "offset": "UTC-3",
+    "order": 2
+  },
+  {
+    "id": "fiyi-fiji",
+    "country": "Fiyi",
+    "city": "Fiji",
+    "offset": "UTC+0",
+    "order": 3
+  },
+  {
+    "id": "australia-sydney",
+    "country": "Australia",
+    "city": "Sydney",
+    "offset": "UTC+10",
+    "order": 4
+  }
+]
